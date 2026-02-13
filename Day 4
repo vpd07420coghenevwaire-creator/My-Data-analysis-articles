@@ -1,0 +1,21 @@
+Day 4 of my data analytics journey: 𝐇𝐲𝐩𝐨𝐭𝐡𝐞𝐬𝐢𝐬 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬.
+
+Ever wonder if a new strategy is actually working or if a change really made an impact? That is where hypothesis testing comes in.
+
+𝐇𝐲𝐩𝐨𝐭𝐡𝐞𝐬𝐢𝐬 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: a statistical method to check if a change or intervention has an effect. It involves making an educated guess and testing it with data to see if it is true.
+
+Every test has two parts:
+• Null hypothesis (H₀) - nothing changed
+• Alternative hypothesis (H₁) - something changed or had an effect
+For example, a hospital introduces a new nutrition protocol:
+• Null hypothesis - the protocol doesn’t improve recovery
+• Alternative hypothesis - the protocol does improve recovery.
+After testing, we can see if the improvement is real or just happened by chance.
+
+𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: shows how variables are connected, how a change in one affects the other and can help predict future results.
+
+Key takeaway:
+Hypothesis testing ensures decisions are based on facts, not assumptions.
+Regression analysis helps us see connections and predict what might happen next, so we can make smarter decisions.
+#120DaysOfDataAnalyticsWithTina
+#DataAnalyticsLockedIn
